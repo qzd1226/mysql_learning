@@ -1,2 +1,4 @@
 sudo /usr/local/mysql/support-files/mysql.server stop
 sudo /usr/local/mysql/support-files/mysql.server start
+mysql -u root -p
+mysql -ctl cli
